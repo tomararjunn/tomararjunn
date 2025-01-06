@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src=![image](https://github.com/user-attachments/assets/246fd0d5-8437-494f-8250-6f9b4ac35f0e)>
 
 
-- 🌱 I’m currently learning **WEB DEVLOPMENT,JAVA**
+- 🌱 I’m currently learning **web development,java,c++**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
